@@ -1,2 +1,2 @@
 # squid
-Konfigurasi server router
+Konfigurasi server router 
